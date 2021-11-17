@@ -29,6 +29,7 @@
   "dependencies": {
     "aws-sign2": "~0.7.0",
     "aws4": "^1.8.0",
+    "bungee-tunnel-agent": "^0.6.1",
     "caseless": "~0.12.0",
     "combined-stream": "~1.0.6",
     "extend": "~3.0.2",
