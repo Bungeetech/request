@@ -1,5 +1,5 @@
 {
-  "name": "request",
+  "name": "bungee-request",
   "description": "Simplified HTTP request client.",
   "keywords": [
     "http",
@@ -8,13 +8,13 @@
     "utility"
   ],
   "version": "2.88.1",
-  "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
+  "author": "Bungeetech",
   "repository": {
     "type": "git",
-    "url": "https://github.com/request/request.git"
+    "url": "https://github.com/bungeetech/request.git"
   },
   "bugs": {
-    "url": "http://github.com/request/request/issues"
+    "url": "http://github.com/bungeetech/request/issues"
   },
   "license": "Apache-2.0",
   "engines": {
@@ -46,7 +46,6 @@
     "qs": "~6.5.2",
     "safe-buffer": "^5.1.2",
     "tough-cookie": "~2.5.0",
-    "tunnel-agent": "^0.6.0",
     "uuid": "^3.3.2"
   },
   "scripts": {
